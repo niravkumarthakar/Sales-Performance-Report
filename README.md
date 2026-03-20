@@ -61,7 +61,8 @@ The dataset used in this project contains information about sales transactions, 
 
 ## 🔹 Screenshots
 
-<img width="1369" height="765" alt="Screenshot 2026-03-20 142554" src="https://github.com/user-attachments/assets/55b15415-3c1c-41d7-9500-73ab2536d514" />
+<img width="1369" height="753" alt="image" src="https://github.com/user-attachments/assets/73a6088e-d9f3-4d78-830d-9e59cfa5ff08" />
+
 
 
 ---
