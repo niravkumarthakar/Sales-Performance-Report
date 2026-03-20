@@ -72,6 +72,6 @@ This project demonstrates the ability to analyze and visualize data effectively 
 
 ---
 
-## 🔹 Niravkumar Thakar
+## 🔹 Author
 
-Your Name
+Niravkumar Thakar
