@@ -31,8 +31,6 @@ The dashboard transforms raw data into meaningful insights using visual elements
 
 ## 🔹 Project Structure
 
-## 🔹 Project Structure
-
 ```
 Sales-Dashboard-PowerBI/
 │
