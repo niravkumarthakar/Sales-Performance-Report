@@ -25,7 +25,7 @@ The dashboard transforms raw data into meaningful insights using visual elements
 ## 🔹 Tools & Technologies
 
 * Microsoft Power BI
-* Microsoft Excel / CSV
+* CSV File for dataset
 
 ---
 
