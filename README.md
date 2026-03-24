@@ -81,3 +81,4 @@ This project demonstrates the ability to analyze and visualize data effectively 
 ## 🔹 Author
 
 Niravkumar Thakar
+[LinkedIn](https://www.linkedin.com/in/niravkumar-thakar-095132371/) 
